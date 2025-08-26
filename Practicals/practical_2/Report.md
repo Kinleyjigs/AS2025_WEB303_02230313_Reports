@@ -74,4 +74,4 @@ The API Gateway dynamically discovers healthy services through Consul and routes
 
 ### Repository Link
 
-https://github.com/Kinleyjigs/AS2025_WEB303_02230313.git
+https://github.com/Kinleyjigs/AS2025_WEB303_02230313_Practical2.git
